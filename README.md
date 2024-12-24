@@ -1,4 +1,4 @@
-Tech Infrastructure nerd for hire.
+Tech Infrastructure nerd.
 
 Build it, break it, rebuild it better.
 
